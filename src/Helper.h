@@ -8,7 +8,6 @@
 #include "Eigen-3.3/Eigen/LU"
 #include <random>
 #include "vehicle.h"
-#include "trajectory.h"
 
 
 using namespace std;
